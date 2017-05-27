@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-05-14 06:47+0200\n"
-"PO-Revision-Date: 2017-05-14 07:09+0200\n"
+"PO-Revision-Date: 2017-05-27 07:51+0200\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -84,15 +84,15 @@ msgstr "Bloc Arc-en-ciel"
 
 #: init.lua
 msgid "Glow Crystal"
-msgstr "Cristal rayonnant"
+msgstr "Cristal brillant"
 
 #: init.lua
 msgid "Glow Emerald"
-msgstr "Émeraude rayonnante"
+msgstr "Émeraude brillante"
 
 #: init.lua
 msgid "Glow Mese"
-msgstr "Mese rayonnant"
+msgstr "Mese brillant"
 
 #: init.lua
 msgid "Mossy Stone Stair"
@@ -220,8 +220,8 @@ msgstr "Obsidienne"
 
 #: init.lua
 msgid "Steel Fence"
-msgstr "Barrière métallique"
+msgstr "Barrière en acier"
 
 #: init.lua
 msgid "Gloopblocks Loaded!"
-msgstr "Gloopblocks chargés !"
+msgstr "[Gloopblocks] a été chargé."
