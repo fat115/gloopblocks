@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-05-14 06:47+0200\n"
-"PO-Revision-Date: 2017-05-27 07:51+0200\n"
+"PO-Revision-Date: 2017-08-06 08:45+0200\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -52,7 +52,7 @@ msgstr "Bloc Oerkki"
 
 #: init.lua
 msgid "Mossy Stone Brick"
-msgstr "Brique de pierre moussue"
+msgstr "Brique moussue en pierre"
 
 #: init.lua
 msgid "Mossy Stone"
@@ -60,11 +60,11 @@ msgstr "Pierre moussue"
 
 #: init.lua
 msgid "Cobblestone Road Bed"
-msgstr "Empierrement en pavés"
+msgstr "Ballast en pierres"
 
 #: init.lua
 msgid "Mossy Cobblestone Road Bed"
-msgstr "Empierrement en pavés moussus"
+msgstr "Ballast moussu en pierres"
 
 #: init.lua
 msgid "Wooden Scaffold"
@@ -72,11 +72,11 @@ msgstr "Échafaud en bois"
 
 #: init.lua
 msgid "Cobblestone Roadbed"
-msgstr "Empierrement en pavés"
+msgstr "Ballast en pierres"
 
 #: init.lua
 msgid "Mossy Cobblestone Roadbed"
-msgstr "Empierrement en pavés moussus"
+msgstr "Ballast moussu en pierres"
 
 #: init.lua
 msgid "Rainbow Block"
@@ -96,43 +96,43 @@ msgstr "Mese brillant"
 
 #: init.lua
 msgid "Mossy Stone Stair"
-msgstr "Marche en pierre moussue"
+msgstr "Marche moussue en pierre"
 
 #: init.lua
 msgid "Mossy Stone Slab"
-msgstr "Dalle en pierre moussue"
+msgstr "Dalle moussue en pierre"
 
 #: init.lua
 msgid "Mossy Cobble Stair"
-msgstr "Marche en pavés moussus"
+msgstr "Marche moussue en pierres"
 
 #: init.lua
 msgid "Mossy Cobble Slab"
-msgstr "Dalle en pavés moussus"
+msgstr "Dalle moussue en pierres"
 
 #: init.lua
 msgid "Mossy Stone Brick Stair"
-msgstr "Marche en briques de pierre moussues"
+msgstr "Marche moussue en briques de pierre"
 
 #: init.lua
 msgid "Mossy Stone Brick Slab"
-msgstr "Dalle en briques de pierre moussues"
+msgstr "Dalle moussue en briques de pierre"
 
 #: init.lua
 msgid "Cobble Roadbed Stair"
-msgstr "Marche empierrée en pavés"
+msgstr "Marche en ballast (pierres)"
 
 #: init.lua
 msgid "Cobble Roadbed Slab"
-msgstr "Dalle empierrée en pavés"
+msgstr "Dalle en ballast (pierres)"
 
 #: init.lua
 msgid "Mossy Cobble Roadbed Stair"
-msgstr "Marche empierrée en pavés moussus"
+msgstr "Marche moussue en ballast (pierres)"
 
 #: init.lua
 msgid "Mossy Cobble Roadbed Slab"
-msgstr "Dalle empierrée en pavés moussus"
+msgstr "Dalle moussue en ballast (pierres)"
 
 #: init.lua
 msgid "Cement Stair"
